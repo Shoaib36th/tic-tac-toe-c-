@@ -14,8 +14,3 @@ A simple command-line Tic-Tac-Toe game written in C++ for two players.
 ### Prerequisites
 - A C++ compiler (e.g., `g++`, `clang++`, or MSVC) installed on your machine.
 
-### Compilation
-Open your terminal or command prompt, navigate to the directory containing the source code, and run:
-
-```bash
-g++ -o tictactoe main.cpp
